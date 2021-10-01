@@ -49,8 +49,8 @@ github.com/quasilyte/regex/syntax v0.0.0-20200805063351-8f842688393c h1:+gtJ/Pwj
 github.com/quasilyte/regex/syntax v0.0.0-20200805063351-8f842688393c/go.mod h1:rlzQ04UMyJXu/aOvhd8qT+hvDrFpiwqp8MRXDY9szc0=
 github.com/yookoala/realpath v1.0.0/go.mod h1:gJJMA9wuX7AcqLy1+ffPatSCySA1FQ2S8Ya9AIoYBpE=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
-github.com/z7zmey/php-parser v0.8.0-rc.1.0.20210213215434-367eff9de651 h1:gDfdOvHmWWFqE/LltouUfWGq7Z3PvR4OoOr3ZRwa9J4=
-github.com/z7zmey/php-parser v0.8.0-rc.1.0.20210213215434-367eff9de651/go.mod h1:aae81kYAwd9gCu7qaA7neWjT77MIRtjPqpkXFzSkKIQ=
+github.com/VKCOM/php-parser v0.8.0-rc.1.0.20210213215434-367eff9de651 h1:gDfdOvHmWWFqE/LltouUfWGq7Z3PvR4OoOr3ZRwa9J4=
+github.com/VKCOM/php-parser v0.8.0-rc.1.0.20210213215434-367eff9de651/go.mod h1:aae81kYAwd9gCu7qaA7neWjT77MIRtjPqpkXFzSkKIQ=
 go.lsp.dev/uri v0.3.0 h1:KcZJmh6nFIBeJzTugn5JTU6OOyG0lDOo3R9KwTxTYbo=
 go.lsp.dev/uri v0.3.0/go.mod h1:P5sbO1IQR+qySTWOCnhnK7phBx+W3zbLqSMDJNTw88I=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
