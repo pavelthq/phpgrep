@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/quasilyte/phpgrep/internal/phpgrep"
+	"github.com/pavelthq/phpgrep/internal/phpgrep"
 )
 
 func main() {
